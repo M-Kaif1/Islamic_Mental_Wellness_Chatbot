@@ -14,7 +14,7 @@ This project demonstrates the integration of **AI-inspired interaction, natural 
 ## Features
 - **Emotion Detection:** Recognizes emotions such as stress, anxiety, sadness, tiredness, loneliness, and frustration based on user input.
 - **Islamic Tips:** Provides advice rooted in **Quranic verses and authentic Hadith** relevant to the detected emotion.
-- **Motivational Quotes:** Offers inspirational quotes from the Quran and Hadith.
+- **Motivational Quotes:** Offers inspirational quotes from the Quran verses.
 - **Mindfulness Exercises:** Recommends practical exercises like dhikr, prayer, and gratitude reflection for calming the mind.
 - **Mini Spiritual Reflection Quiz:**  
   - Asks two simple questions:  
@@ -32,7 +32,7 @@ This project demonstrates the integration of **AI-inspired interaction, natural 
 3. Run the chatbot using the terminal or command prompt:  
 4. Interact with the chatbot via the console:
 5. Share your feelings (e.g., “I feel stressed today”)  
-6. Ask for Quran/Hadith quotes or motivational advice  
+6. Ask for Quran quotes or motivational advice  
 7. Take the mini spiritual reflection quiz by typing `quiz` or `reflection`  
 8.Type `exit` to end the session and view the mood summary
 
